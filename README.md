@@ -17,6 +17,7 @@ Halaman implementasi untuk splash ini adalah halaman awal saat user membuka apli
 
 ### b.	Login
 <img width="233" height="483" alt="image" src="https://github.com/user-attachments/assets/cef3f518-4edd-4ea0-8ac1-8de2c31dad40" />
+<img width="252" height="483" alt="image" src="https://github.com/user-attachments/assets/aa6847d2-e4d5-44d9-bd77-08a7d216a3b4" />
 
  
 Halaman implementasi untuk login aplikasi harammovies ini adalah halaman dimana user akan diminta untuk login ke akun terlebih dahulu sebelum ke halaman explore utama.
