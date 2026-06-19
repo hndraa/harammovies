@@ -1,6 +1,6 @@
 # HARAMOVIES
 
-3.2	Implementasi User Interface 
+## Implementasi User Interface 
 Berikut implementasi tampilan user interface dari masing-masing fitur yang akan diimplementasikan pada aplikasi Haramovies.
 a.	Spalsh
 <img width="349" height="741" alt="image" src="https://github.com/user-attachments/assets/61f55c41-b3c1-4c0b-a5c9-6d7b9fe3db7e" />
